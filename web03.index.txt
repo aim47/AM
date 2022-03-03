@@ -1,0 +1,17 @@
+<html>
+<frameset rows=10%,80%,*>
+<frame src="web04.html" name =1 > 
+<frameset cols=10%,*> 
+<frame src="" name=2>
+<frameset cols=90%,*>
+<frame name =3>
+<frame name =4>
+</frameset>
+</frameset>
+<frame src="web06.htmll"name=5>
+<noframe> 
+</noframe>
+         <body>
+         </body>
+
+</html>
